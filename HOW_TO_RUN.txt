@@ -1,0 +1,4 @@
+1. Ensure the `data/` folder exists in the project root.
+2. Ensure the paths in the `progetto.bat` file are correct (check the JavaFX SDK location).
+3. To run the application, simply double-click on the `progetto.bat` file.
+   (This will open a Command Prompt window and launch the application).
